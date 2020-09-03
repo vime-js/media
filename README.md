@@ -1,6 +1,6 @@
 # @vime/media
 
-[Vime][https://github.com/vime-js/vime] is simply a collection of 
+[Vime](https://github.com/vime-js/vime) is simply a collection of 
 [web components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) that help you easily 
 build and customize your our own media player. This repository contains media files that are used for 
 testing and demonstration purposes throughout Vime's source code, examples and public content.
