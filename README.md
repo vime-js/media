@@ -1,9 +1,8 @@
 # @vime/media
 
-[Vime](https://github.com/vime-js/vime) is simply a collection of 
-[web components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) that help you easily 
-build and customize your our own media player. This repository contains media files that are used for 
-testing and demonstration purposes throughout Vime's source code, examples and public content.
+[Vime](https://github.com/vime-js/vime) is a customizable, extensible, accessible and framework 
+agnostic media player for the web. This repository contains media files that are used for testing and 
+demonstration purposes throughout Vime's source code, examples and public content.
 
 The audio and video files are extracted from [Agent 327: Operation Barbershop][agent-327-blender],
 which is an [animated feature film][agent-327-youtube] based on Dutch artist
